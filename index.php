@@ -104,6 +104,19 @@
                                 <!--<a href="#" class="btn btn-light">Learn More</a>-->
                             </div>
                         </div>
+                          <div class="col-md-3 col-sm-6">
+                            <div class="service-item">
+                                <span class="fa-stack fa-4x">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-shield fa-stack-1x text-primary"></i>
+                            </span>
+                                <h4>
+                                    <strong>Due Diligence</strong>
+                                </h4>
+                                <p>If you are buying or selling a business and want to know more about the key aspects of the technical, developemnt or engineering departments, we can give you the insight you need to make the right decision about a sale or purchase. We specialise in working with venture capitalists to provide expert guidance on the true cost of ownership of particular investments that have a strong technical or software related nature.</p>
+                                <!--<a href="#" class="btn btn-light">Learn More</a>-->
+                            </div>
+                        </div>
                         <div class="col-md-3 col-sm-6">
                             <div class="service-item">
                                 <span class="fa-stack fa-4x">
@@ -130,19 +143,7 @@
                                 <!--<a href="#" class="btn btn-light">Learn More</a>-->
                             </div>
                         </div>
-                        <div class="col-md-3 col-sm-6">
-                            <div class="service-item">
-                                <span class="fa-stack fa-4x">
-                                <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-shield fa-stack-1x text-primary"></i>
-                            </span>
-                                <h4>
-                                    <strong>Due Diligence</strong>
-                                </h4>
-                                <p>If you are buying or selling a business and want to know more about the key aspects of the technical, developemnt or engineering departments, we can give you the insight you need to make the right decision about a sale or purchase. We specialise in working with venture capitalists to provide expert guidance on the true cost of ownership of particular investments that have a strong technical or software related nature.</p>
-                                <!--<a href="#" class="btn btn-light">Learn More</a>-->
-                            </div>
-                        </div>
+                      
                     </div>
                     <!-- /.row (nested) -->
                 </div>
