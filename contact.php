@@ -23,8 +23,8 @@ if ($action=="")    /* display the contact form */
     }  
 else                /* send the submitted data */ 
     { 
-    $name=$_REQUEST['InputName']; 
-    $email=$_REQUEST['InputEmail']; 
+    $name=$_REQUEST['name']; 
+    $email=$_REQUEST['email']; 
     $message=$_REQUEST['message']; 
     if (($name=="")||($email=="")||($message=="")) 
         { 
